@@ -3,9 +3,7 @@
 🎓 Studying Software Engineering at Ontario Tech University<br/>
 🌱 #LearningInPublic as I grow my skills in web development and AI<br/>
 📊 Currently learning about data visualization and machine learning<br/>
-📝 Check out my projects and contributions on GitHub!
-!# 💫 About Me:
-Hi, I'm Zainab Lawal! 👋<br>👨‍💻 Software Engineer studying and sharing about tech<br>🎓 Studying Software Engineering at Ontario Tech University<br>🌱 #LearningInPublic as I grow my skills in web development and AI<br>📊 Currently learning about data visualization and machine learning<br>📝 Check out my projects and contributions on GitHub!
+📝 Check out my projects and contributions on GitHub
 
 
 ## 🌐 Socials:
